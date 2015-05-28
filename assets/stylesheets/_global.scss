@@ -263,9 +263,17 @@ aside nav ul li a {
 }
 
 .fot-style {
-	
+
 	background-color:#68dff0;
 	border-top:1px solid #4AA0AD;
+}
+
+.col-xs-0-5 {
+	@include make-xs-column(0.5)
+}
+
+.col-xs-8-5 {
+	@include make-xs-column(8.5)
 }
 
 .full-hg {

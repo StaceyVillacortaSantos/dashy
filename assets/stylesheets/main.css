@@ -4086,6 +4086,22 @@ aside nav ul li a {
   background-color: #68dff0;
   border-top: 1px solid #4AA0AD; }
 
+.col-xs-0-5 {
+  position: relative;
+  float: left;
+  width: 4.16667%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.col-xs-8-5 {
+  position: relative;
+  float: left;
+  width: 70.83333%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
 .full-hg {
   height: 100%; }
 
